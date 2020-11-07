@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewData["Title"] = "Welcome Page";
+}
+
+<div>
+    <div>
+        <a href='@Url.Action("AddStudentView", "Student")'>
+            <input type='button'
+                   style="
+                      background-color: #4CAF50;
+                      color: white;
+                      margin-left: auto;
+                      margin-right: auto;
+                      display: block;
+                      width:250px;
+                      height:50px;
+                      margin-top: 25%;"
+                   value='Add Student' />
+        </a>
+    </div>
+
+    <div>
+        <a href='@Url.Action("GetStudents", "Student")'>
+            <input type='button'
+                   style="
+                      background-color: #008CBA;
+                      color: white;
+                      margin-left: auto;
+                      margin-right: auto;
+                      display: block;
+                      width:250px;
+                      height:50px;
+                      margin-top: 2%;
+                      margin-bottom: 2%;"
+                   value='Get Student' />
+        </a>
+    </div>
+
+    <div>
+        <a href='@Url.Action("EditView", "Student")'>
+            <input type='button'
+                   style="
+                      background-color: yellow;
+                      color: white;
+                      margin-left: auto;
+                      margin-right: auto;
+                      display: block;
+                      width:250px;
+                      height:50px;
+                      margin-top: 2%;
+                      margin-bottom: 2%;"
+                   value='Edit Student' />
+        </a>
+    </div>
+
+    <div>
+        <a href='@Url.Action("DeleteView", "Student")'>
+            <input type='button'
+                   style="
+                      background-color: #f44336;
+                      color: white;
+                      margin-left: auto;
+                      margin-right: auto;
+                      display: block;
+                      width:250px;
+                      height:50px;
+                      margin-bottom: 25%;"
+                   value='Delete Student' />
+        </a>
+    </div>
+
+</div>
+
+

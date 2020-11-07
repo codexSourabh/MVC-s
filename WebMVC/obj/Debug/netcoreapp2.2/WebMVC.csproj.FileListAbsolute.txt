@@ -1,0 +1,70 @@
+E:\ASPDotnet Core\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.deps.json
+E:\ASPDotnet Core\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.runtimeconfig.json
+E:\ASPDotnet Core\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.runtimeconfig.dev.json
+E:\ASPDotnet Core\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.dll
+E:\ASPDotnet Core\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.pdb
+E:\ASPDotnet Core\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.Views.dll
+E:\ASPDotnet Core\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.Views.pdb
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.csprojAssemblyReference.cache
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.csproj.CoreCompileInputs.cache
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorAssemblyInfo.cache
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorAssemblyInfo.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.AssemblyInfoInputs.cache
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.AssemblyInfo.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.TagHelpers.input.cache
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.TagHelpers.output.cache
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorCoreGenerate.cache
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorTargetAssemblyInfo.cache
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorTargetAssemblyInfo.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.Views.pdb
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.dll
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.pdb
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.csproj.CopyComplete
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\Index.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\AddStudentView.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\GetStudents.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\EditView.g.cshtml.cs
+E:\ASPDotnet Core\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\DeleteView.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.deps.json
+E:\API-MVC\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.runtimeconfig.json
+E:\API-MVC\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.runtimeconfig.dev.json
+E:\API-MVC\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.dll
+E:\API-MVC\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.pdb
+E:\API-MVC\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.Views.dll
+E:\API-MVC\WebMVC\WebMVC\bin\Debug\netcoreapp2.2\WebMVC.Views.pdb
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.csprojAssemblyReference.cache
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.csproj.CoreCompileInputs.cache
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorAssemblyInfo.cache
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorAssemblyInfo.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.AssemblyInfoInputs.cache
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.AssemblyInfo.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.TagHelpers.input.cache
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.TagHelpers.output.cache
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorCoreGenerate.cache
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\AddStudentView.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\DeleteView.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\EditView.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\GetStudents.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Student\Index.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorTargetAssemblyInfo.cache
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.RazorTargetAssemblyInfo.cs
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.Views.pdb
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.dll
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.pdb
+E:\API-MVC\WebMVC\WebMVC\obj\Debug\netcoreapp2.2\WebMVC.csproj.CopyComplete

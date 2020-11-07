@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WebMVC.Models.Student>
+
+@{
+    ViewData["Title"] = "GetStudents";
+}
+
+<h1>GetStudents</h1>
+
+<p>
+    <a asp-action="AddStudentView">Add New Student</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentContact)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentContact)
+            </td>
+            <td>
+                <a asp-action="EditView" asp-route-id="@item.StudentId">Edit</a> |
+                <a asp-action="DeleteView" asp-route-id="@item.StudentId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

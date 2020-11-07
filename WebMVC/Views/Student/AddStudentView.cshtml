@@ -1,0 +1,40 @@
+﻿@model WebMVC.Models.Student
+
+@{
+    ViewData["Title"] = "Add New Student";
+}
+
+<h1>Add New Student</h1>
+
+<h4>Fill Student Details Below</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form action="AddStudent" method="POST">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="StudentId" class="control-label"></label>
+                <input asp-for="StudentId" class="form-control" />
+                <span asp-validation-for="StudentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentName" class="control-label"></label>
+                <input asp-for="StudentName" class="form-control" />
+                <span asp-validation-for="StudentName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentContact" class="control-label"></label>
+                <input asp-for="StudentContact" class="form-control" />
+                <span asp-validation-for="StudentContact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to Home</a>
+</div>
+
